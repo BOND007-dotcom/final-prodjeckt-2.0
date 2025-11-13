@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+h1:hover{
+    background-color: aqua;
+    color: brown;
+}
+li:hover{
+    background-color: blueviolet;
+    color: blue;
+}
+
+
+
